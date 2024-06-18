@@ -1,11 +1,14 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Welcome to my Slides repo !
 
-To start the slide show:
+To start a slide show:
 
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
+- `slidev --open <path/to/slides.md>`
 
-Edit the [slides.md](./slides.md) to see the changes.
+To export a presentation:
 
-Learn more about Slidev on [documentations](https://sli.dev/).
+- `slidev export <path/to/slides.md>`
+
+# Slide shows
+
+- arc-browser
+  - `slidev --open talks/arc-browser/slides.md`

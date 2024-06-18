@@ -169,7 +169,7 @@ transition: slide-left
 Wow, il serait temps !
 
 ---
-layout : center
+layout : cover
 transition: slide-left
 ---
 
