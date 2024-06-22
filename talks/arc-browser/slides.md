@@ -41,7 +41,7 @@ transition: slide-up
 Soyez pas si timides
 
 <div class="justify-center flex ">
-<img src="images/arc.png"  size="196px"/>
+<img src="/arc.png"  size="196px"/>
 </div>
 
 
@@ -94,7 +94,7 @@ transition: slide-up
 Y'en a genre deux ou trois
 
 <div class="justify-center flex ">
-<img src="images/features.png" width="500px"/>
+<img src="/features.png" width="500px"/>
 </div>
 
 ---
@@ -177,7 +177,7 @@ transition: slide-left
 Pour un max de fun
 
 <div class="justify-center flex ">
-<img src="images/max.png"  />
+<img src="/max.png"  />
 </div>
 
 
@@ -190,7 +190,7 @@ transition: slide-left
 Pour ... chercher des trucs ?
 
 <div class="justify-center flex ">
-<img src="images/arc-search.png" />
+<img src="/arc-search.png" />
 </div>
 
 
